@@ -18,6 +18,8 @@
 
 ## Architecture 
 j'ai respecté le format demandé 
+Un Package pour interfaces un autre pour model, services et ui.
+Et le tout est initialisé dans le app.java
 
 ## Contenu developper 
 1. Inscription ➜ génération d’un code - Validation du compte par le code - Connexion / déconnexion
