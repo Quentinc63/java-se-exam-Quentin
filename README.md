@@ -20,4 +20,8 @@
 j'ai respecté le format demandé 
 
 ## Contenu developper 
-1. Partie core Fini 
+1. Inscription ➜ génération d’un code - Validation du compte par le code - Connexion / déconnexion
+2. Ajouter / modifier un Lieu - Ajouter / modifier une Borne - Supprimer une borne si aucune réservation future
+3. Chercher bornes DISPONIBLES pour un créneau - Créer une réservation (statut : EN_ATTENTE) - Accepter / refuser une réservation
+4. Générer un reçu texte (.txt) lors de l’acceptation
+5. Menu principal clair - Validation des entrées utilisateur
