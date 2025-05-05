@@ -1,0 +1,13 @@
+Réservation #1
+
+Client: biceps63@hotmail.fr
+Date d'achat: 05/05/2025 14:22
+
+Détails de la réservation:
+Borne #3
+Tarif horaire: 6.0€/h
+Du: 05/05/2025 14:44
+Au: 05/05/2025 16:44
+
+Montant total: 12,00€
+
